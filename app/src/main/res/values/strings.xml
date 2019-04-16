@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Widget</string>
+    <string name="show_alert">Show Alert Dialog</string>
+    <string name="title">Alert Dialog</string>
+    <string name="message">Are you sure?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
